@@ -73,13 +73,13 @@ Both lists are of equal length.
 ## How to Run the Solution
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/advent-of-code-2024.git
-   cd advent-of-code-2024/day1
+   git clone https://github.com/EmirAread/advent_of_code_2024.git
+   cd advent_of_code_2024/day1
    ```
 
 2. Run the solution script:
    ```bash
-   python historian_hysteria.py input.txt
+   cargo run
    ```
 
 3. Replace `input.txt` with your puzzle input file. The file should contain two columns of integers separated by whitespace.
